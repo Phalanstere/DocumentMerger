@@ -1,0 +1,28 @@
+{
+  "name": "DocumentMenger",
+  "version": "0.0.1",
+  "description": "merges documents",
+  "main": "lib/motives.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Phalanstere/Motives.git"
+  },
+  "keywords": [
+    "storytelling",
+    "authoring"
+  ],
+  "dependencies": {
+    "textract": "^1.2.1"
+  },
+  "devDependencies": {
+  },
+  "author": "Phalanstere",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Phalanstere/Motives/issues"
+  },
+  "homepage": "https://github.com/Phalanstere/Motives"
+}
